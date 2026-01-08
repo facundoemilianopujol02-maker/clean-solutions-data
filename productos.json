@@ -1,0 +1,26 @@
+[
+    {
+        "id": "jabon-ariel",
+        "nombre": "Jabón tipo Ariel - Limpieza Profunda",
+        "precio": "$8.000",
+        "imagen": "jabonAriel.jpg",
+        "descripcion": "Jabón líquido tipo Ariel baja espuma.",
+        "caracteristicas": ["Precio por litro: $1.800"]
+    },
+    {
+        "id": "jabon-alaPan",
+        "nombre": "Jabón blanco ala",
+        "precio": "$1.000",
+        "imagen": "alapan.jpg",
+        "descripcion": "Jabón blanco ala x2 unidades.",
+        "caracteristicas": ["Pack de 2 unidades", "Para blanqueo profundo"]
+    },
+    {
+        "id": "toallita-always",
+        "nombre": "Toallita Always",
+        "precio": "$1250",
+        "imagen": "alwaysToallita.jpg",
+        "descripcion": "Toallitas Protectoras always.",
+        "caracteristicas": ["Tela suave", "Ajuste perfecto", "Nuevo pegamento"]
+    }
+]
