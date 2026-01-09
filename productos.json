@@ -1,54 +1,21 @@
 {
   "productos": [
     {
-      "id": "jabon-ariel",
-      "nombre": "Jabón tipo Ariel - Limpieza Profunda",
-      "precio": "$8.000",
-      "imagen": "jabonAriel.jpg",
-      "descripcion": "Jabón líquido tipo Ariel baja espuma.",
-      "caracteristicas": [
-        "Precio por litro: $1.800"
-      ]
-    },
-    {
-      "id": "jabon-alaPan",
-      "nombre": "Jabón blanco ala",
-      "precio": "$1.000",
-      "imagen": "alapan.jpg",
-      "descripcion": "Jabón blanco ala x2 unidades.",
-      "caracteristicas": [
-        "Pack de 2 unidades",
-        "Para blanqueo profundo"
-      ]
-    },
-    {
-      "id": "toallita-always",
-      "nombre": "Toallita Always",
-      "precio": "$1250",
-      "imagen": "alwaysToallita.jpg",
-      "descripcion": "Toallitas Protectoras always.",
-      "caracteristicas": [
-        "Tela suave",
-        "Ajuste perfecto",
-        "Nuevo pegamento"
-      ]
-    },
-    {
-      "id": "prod-1767910870334-b9owy9",
+      "id": "prod-1767991830232-5nlc04",
       "nombre": "asdasd",
       "precio": "$123.123",
-      "imagen": "fondon2.jpg",
+      "imagen": "fondon1.jpg",
       "descripcion": "asdasd",
       "caracteristicas": [
-        "asdasd"
+        "asdasdasd"
       ]
     }
   ],
-  "ultimaSincronizacion": "2026-01-08T22:21:21.198Z",
-  "version": "7",
+  "ultimaSincronizacion": "2026-01-09T20:50:42.198Z",
+  "version": "5",
   "metadata": {
-    "totalProductos": 4,
+    "totalProductos": 1,
     "sincronizadoPor": "Clean Solutions Admin",
-    "fecha": "8/1/2026"
+    "fecha": "9/1/2026"
   }
 }
