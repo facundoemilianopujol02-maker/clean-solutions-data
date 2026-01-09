@@ -1,13 +1,13 @@
 {
   "productos": [
     {
-      "id": "prod-1767991830232-5nlc04",
-      "nombre": "asdasd",
+      "id": "prod-1707901389232-5n1ce4",
+      "nombre": "asdasa",
       "precio": "$123.123",
-      "imagen": "fondon1.jpg",
-      "descripcion": "asdasd",
+      "imagen": "fondoal.jpg",
+      "descripcion": "asdasa",
       "caracteristicas": [
-        "asdasdasd"
+        "asdasadas"
       ]
     }
   ],
