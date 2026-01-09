@@ -6,9 +6,7 @@
       "precio": "$123.123",
       "imagen": "fondoal.jpg",
       "descripcion": "asdasa",
-      "caracteristicas": [
-        "asdasadas"
-      ]
+      "caracteristicas": ["asdasadas"]
     }
   ],
   "ultimaSincronizacion": "2026-01-09T20:50:42.198Z",
