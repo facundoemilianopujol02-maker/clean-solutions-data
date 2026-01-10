@@ -6,13 +6,25 @@
       "precio": "$123.123",
       "imagen": "fondoal.jpg",
       "descripcion": "asdasa",
-      "caracteristicas": ["asdasadas"]
+      "caracteristicas": [
+        "asdasadas"
+      ]
+    },
+    {
+      "id": "prod-1768005906354-p5285v",
+      "nombre": "fafafa",
+      "precio": "$123.123",
+      "imagen": "fondon1.jpg",
+      "descripcion": "affafa",
+      "caracteristicas": [
+        "fafafa"
+      ]
     }
   ],
-  "ultimaSincronizacion": "2026-01-09T20:50:42.198Z",
-  "version": "5",
+  "ultimaSincronizacion": "2026-01-10T00:45:15.724Z",
+  "version": "6",
   "metadata": {
-    "totalProductos": 1,
+    "totalProductos": 2,
     "sincronizadoPor": "Clean Solutions Admin",
     "fecha": "9/1/2026"
   }
